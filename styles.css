@@ -1256,12 +1256,12 @@ h1, h2, h3 { font-family: var(--font-h); font-weight: 500; margin: 0; line-heigh
   color: #fff;
   font-family: var(--font-h);
   font-weight: 600;
-  font-size: clamp(38px, 5vw, 64px);
-  line-height: 1.06;
+  font-size: clamp(30px, 4.4vw, 52px);
+  line-height: 1.08;
   letter-spacing: -0.03em;
   text-wrap: balance;
   word-break: normal;
-  overflow-wrap: normal;
+  overflow-wrap: break-word;
   hyphens: none;
   margin: 0;
 }
